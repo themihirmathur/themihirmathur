@@ -1,7 +1,7 @@
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](www.linkedin.com/in/themihirmathur)
 <h1 align="center">Hi there 👋🏻, I'm Mihir Mathur</h1>
 <h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University| जय श्री राम 🙏🏻</h3>
-<img align="right" alt="Coding" width="410" height="300" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="right" alt="Coding" width="410" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
 <img align="center" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-500.gif">
 <img align="center" alt="Coding" width="1100" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
 
