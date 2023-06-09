@@ -3,6 +3,7 @@
 <h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University| जय श्री राम 🙏🏻</h3>
 <img align="right" alt="Coding" width="410" height="300" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 <img align="center" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-500.gif">
+<img align="center" alt="Coding" width="1000" src="https://i.gifer.com/EgUx.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themihirmathur&label=Profile%20views&color=0e75b6&style=flat" alt="themihirmathur" /> </p>
 
