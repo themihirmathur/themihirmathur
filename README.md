@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](www.linkedin.com/in/themihirmathur)
+[![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://linkedin.com/in/themihirmathur)
 <h1 align="center">Hi there 👋🏻, I'm Mihir Mathur</h1>
 <h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University| जय श्री राम 🙏🏻</h3>
 <img align="right" alt="Coding" width="410" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
