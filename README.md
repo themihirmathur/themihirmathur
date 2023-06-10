@@ -2,9 +2,9 @@
 <h1 align="center">Hi there 👋🏻, I'm Mihir Mathur</h1>
 <h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University| जय श्री राम 🙏🏻</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
+<img align="right" alt="Coding" width="370" height="300" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
-<img align="center" alt="Coding" width="450" height="300" src="https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966">
+<img align="center" alt="Coding" width="440" height="300" src="https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966">
 
 <img align="center" alt="Coding" width="1100" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
 
