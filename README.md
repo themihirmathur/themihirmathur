@@ -8,7 +8,7 @@
 
 <img align="center" alt="Coding" width="440" height="300" src="https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966">
 
-<img align="center" alt="Coding" width="1100" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
+<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/09/HEADER_ok2.gif">
 
 <img align="right" alt="Coding" width="370" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
 
