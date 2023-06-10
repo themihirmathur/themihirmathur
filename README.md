@@ -42,4 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themihirmathur&" alt="themihirmathur" /></p>
 
+<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/09/HEADER_ok2.gif">
