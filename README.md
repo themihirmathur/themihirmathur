@@ -8,13 +8,7 @@
 
 <img align="center" alt="Coding" width="440" height="300" src="https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966">
 
-<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/09/HEADER_ok2.gif">
-
-<img align="right" alt="Coding" width="370" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
-
-<img align="center" alt="Coding" width="440" height="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-500.gif">
-
-<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
+<img align="center" alt="Coding" width="1100" src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themihirmathur&label=Profile%20views&color=0e75b6&style=flat" alt="themihirmathur" /> </p>
 
