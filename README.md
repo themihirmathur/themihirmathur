@@ -8,9 +8,9 @@
 
 <img align="center" alt="Coding" width="1100" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
 
-<img align="right" alt="Coding" width="410" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
+<img align="right" alt="Coding" width="370" height="300" src="https://cdn.dribbble.com/users/1161517/screenshots/7896076/media/24ae74ddb6c9eb7789ae3a189a6b30ae.gif">
 
-<img align="center" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-500.gif">
+<img align="center" alt="Coding" width="440" height="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themihirmathur&label=Profile%20views&color=0e75b6&style=flat" alt="themihirmathur" /> </p>
 
