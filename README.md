@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/TheMihirMathur2" target="blank"><img src="https://img.shields.io/twitter/follow/themihirmathur?logo=twitter&style=for-the-badge" alt="TheMihirMathur2" /></a> </p>
 
-- 📩 To Reach Me themihirmathur@gmail.com
+- 📩 TO REACH ME - themihirmathur@gmail.com
 
-- 📃 Experiences [https://t.ly/qemPB](https://t.ly/qemPB)
+- 📃 EXPERIENCES - [https://t.ly/qemPB](https://t.ly/qemPB)
 
 <h3 align="left">LET'S CONNECT</h3>
 <p align="left">
