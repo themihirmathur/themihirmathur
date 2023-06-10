@@ -1,5 +1,5 @@
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://linkedin.com/in/themihirmathur)
-<h2 align="center">Hi there 👋🏻, I'm Mihir Mathur</h2>
+<h2 align="center">Hi there 👋🏻 I'm Mihir Mathur</h2>
 <h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University | जय श्री राम 🙏🏻</h3>
 
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
