@@ -36,7 +36,7 @@
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/themihirmathur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/themihirmathur" /></a></p><br><br>
 
 <h3 align="left">STATISTICS</h3>
-<p><img align="left" height='180' src="https://github-readme-stats.vercel.app/api/top-langs?username=themihirmathur&show_icons=true&locale=en&layout=compact" alt="themihirmathur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themihirmathur&show_icons=true&locale=en&layout=compact" alt="themihirmathur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themihirmathur&show_icons=true&locale=en" alt="themihirmathur" /></p>
 
