@@ -37,6 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themihirmathur&show_icons=true&locale=en" alt="themihirmathur" /></p>
 
+<p>&nbsp;<img align="right" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif" alt="themihirmathur" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themihirmathur&" alt="themihirmathur" /></p>
 
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
