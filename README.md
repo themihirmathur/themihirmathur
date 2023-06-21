@@ -14,8 +14,6 @@
 
 <p align="left"> <a href="https://twitter.com/TheMihirMathur2" target="blank"><img src="https://img.shields.io/twitter/follow/themihirmathur?logo=twitter&style=for-the-badge" alt="TheMihirMathur2" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-
 - 📩 TO REACH ME - themihirmathur@gmail.com
 
 - 📃 EXPERIENCES - [https://t.ly/qemPB](https://t.ly/qemPB)
