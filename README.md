@@ -10,6 +10,8 @@
 
 <img align="center" alt="Coding" width="1100" src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966">
 
+<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/291315046/991ea426-62e2-4d81-a9fa-1e5d123dc0ad">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themihirmathur&label=Profile%20views&color=0e75b6&style=flat" alt="themihirmathur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/TheMihirMathur2" target="blank"><img src="https://img.shields.io/twitter/follow/themihirmathur?logo=twitter&style=for-the-badge" alt="TheMihirMathur2" /></a> </p>
