@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="385" height="250" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
-<img align="center" alt="Coding" width="400" height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgideonsgaming.com%2Ffall-guys-review-become-the-bean%2F&psig=AOvVaw1hCl5CBBFd6806bOg2H1Qv&ust=1704481928655000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCksZK4xIMDFQAAAAAdAAAAABA5">
+<img align="center" alt="Coding" width="400" height="250" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
