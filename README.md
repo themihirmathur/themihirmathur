@@ -29,8 +29,6 @@
 
 - 📩 TO REACH ME - themihirmathur@gmail.com
 
-- 📃 EXPERIENCES - [https://t.ly/qemPB](https://t.ly/qemPB)
-
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
