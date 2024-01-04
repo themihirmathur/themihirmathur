@@ -13,9 +13,9 @@
 
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
 
-<img align="right" alt="Coding" width="405" height="260" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
+<img align="right" alt="Coding" width="385" height="260" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
-<img align="center" alt="Coding" width="450" height="260" src="https://media0.giphy.com/media/woEzvlgq03dpmflouU/giphy.gif?cid=ecf05e47ve6et8nrlan4e8s9k1e38fputz3hep9f1fdpz2q0&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="420" height="260" src="https://media0.giphy.com/media/woEzvlgq03dpmflouU/giphy.gif?cid=ecf05e47ve6et8nrlan4e8s9k1e38fputz3hep9f1fdpz2q0&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
