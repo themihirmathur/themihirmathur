@@ -15,7 +15,11 @@
 
 <img align="right" alt="Coding" width="385" height="250" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
-<img align="center" alt="Coding" width="420" height="250" src="https://camo.githubusercontent.com/67bed47c5880c722dc65ccd124d08279ec297ee20058eabe2115ab7742677740/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313130302f302a4647443642557a7a5a7331564a4c75592e676966">
+<img align="center" alt="Coding" width="400" height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcode-art&psig=AOvVaw0EvEaXJmTV9k-N9aXI1gaa&ust=1704481158322000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiWzaK1xIMDFQAAAAAdAAAAABBp">
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <img align="center" alt="Coding" width="1100" src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966">
 
