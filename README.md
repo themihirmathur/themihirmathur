@@ -27,7 +27,7 @@
 
 <p align="left"> <a href="https://twitter.com/TheMihirMathur2" target="blank"><img src="https://img.shields.io/twitter/follow/themihirmathur?logo=twitter&style=for-the-badge" alt="TheMihirMathur2" /></a> </p>
 
-- 📩 TO REACH ME - themihirmathur@gmail.com
+- 📩 TO REACH ME - themihirmathur@gmail.com or https://www.linkedin.com/in/themihirmathur/
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
