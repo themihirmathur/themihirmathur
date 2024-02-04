@@ -29,6 +29,8 @@
 
 - 📩 TO REACH ME - themihirmathur@gmail.com or https://www.linkedin.com/in/themihirmathur/
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="themihirmathur" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/themihirmathur?trk=profile-badge">Mihir Mathur</a></div>
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
