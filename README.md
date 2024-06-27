@@ -15,13 +15,13 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
+![203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a](https://github.com/themihirmathur/themihirmathur/assets/92594107/f230f507-399a-43b7-985d-788421895cfa)
 
 <img align="right" alt="Coding" width="385" height="260" src="https://media.licdn.com/dms/image/D4E12AQFqx-HlhuS4jg/article-cover_image-shrink_600_2000/0/1677748309064?e=2147483647&v=beta&t=fn5MiBSzhKj-nkhpK3GuaWobtwl0K8Ylyvs_DnWcB54">
 
 <img align="center" alt="Coding" width="420" height="260" src="https://media4.giphy.com/media/rlyNQC9y9w1cQaou8H/giphy.gif?cid=ecf05e47z3d9kp1olc1clwvhosk71gkoay6unqaksxiutq83&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-![203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a](https://github.com/themihirmathur/themihirmathur/assets/92594107/f230f507-399a-43b7-985d-788421895cfa)
+<img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
