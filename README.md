@@ -21,11 +21,11 @@
 
 <img align="center" alt="Coding" width="420" height="260" src="https://media4.giphy.com/media/rlyNQC9y9w1cQaou8H/giphy.gif?cid=ecf05e47z3d9kp1olc1clwvhosk71gkoay6unqaksxiutq83&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+![203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a](https://github.com/themihirmathur/themihirmathur/assets/92594107/f230f507-399a-43b7-985d-788421895cfa)
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
-
-<img align="center" alt="Coding" width="1100" src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themihirmathur&label=Profile%20views&color=0e75b6&style=flat" alt="themihirmathur" /> </p>
 
