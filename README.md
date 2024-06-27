@@ -9,7 +9,7 @@
 </p>
   
 <h2 align="center">Hey there 👋🏻 I'm Mihir Mathur</h2>
-<h3 align="center">A Passionate & Enthusiastic Student from Delhi Technological University | जय श्री राम 🙏🏻</h3>
+<h3 align="center">🖥️ A Software Developer from Delhi Technological University 🖥️</h3>
 
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif">
 
