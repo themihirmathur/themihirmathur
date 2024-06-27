@@ -56,7 +56,7 @@
 </p>
 
 <h3 align="left">STATISTICS</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themihirmathur&show_icons=true&locale=en&layout=compact&exclude_repo=Cancer-Detection-using-Deep-Learning" alt="themihirmathur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themihirmathur&show_icons=true&locale=en&layout=compact&exclude_repo=Cancer-Detection-using-Deep-Learning,Critical-Analysis-of-Lok-Sabha-Elections-2024,Kiddis" alt="themihirmathur" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themihirmathur&show_icons=true&locale=en" alt="themihirmathur" /></p>
 
