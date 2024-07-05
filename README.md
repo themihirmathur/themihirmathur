@@ -1,3 +1,5 @@
+![Linkedin Nature Banner](https://github.com/themihirmathur/themihirmathur/assets/92594107/f13125e2-a968-4b9d-9cfb-a265baace98d)
+
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://linkedin.com/in/themihirmathur)
   
 <p align="left">
