@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://linkedin.com/in/themihirmathur)
   
 <p align="left">
