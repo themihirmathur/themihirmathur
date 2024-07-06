@@ -71,7 +71,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themihirmathur&" alt="themihirmathur" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themihirmathur&margin-w=15&rank=-C,-?&theme=onestar" alt="themihirmathur" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themihirmathur&margin-w=15&rank=-C,-?&theme=discord" alt="themihirmathur" /></a> </p>
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themihirmathur&theme=vue" alt="themihirmathur" /></p>
 
