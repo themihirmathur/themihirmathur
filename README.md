@@ -66,7 +66,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themihirmathur&show_icons=true&locale=en&layout=compact&exclude_repo=Cancer-Detection-using-Deep-Learning,Critical-Analysis-of-Lok-Sabha-Elections-2024,Kiddis,IBM-Intern-Project" alt="themihirmathur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themihirmathur&show_icons=true&locale=en" alt="themihirmathur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themihirmathur&hide=stars,prs&show_icons=true&locale=en" alt="themihirmathur" /></p>
 
 <p>&nbsp;<img align="right" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1aZkAknA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://github.com/MishManners/MishManners/raw/master/My-OctocatsShortest.gif" alt="themihirmathur" /></p>
 
