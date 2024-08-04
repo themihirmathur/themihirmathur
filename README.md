@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hey there 👋🏻 I'm Mihir Mathur</h1>
-<h3 align="center">A Software Development Engineer from Delhi Technological University 🔰</h3>
+<h3 align="center">🔰 A Software Development Engineer from Delhi Technological University 🔰</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
