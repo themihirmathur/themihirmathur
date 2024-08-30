@@ -75,6 +75,13 @@
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=themihirmathur&theme=vue" alt="themihirmathur" /></p>
 
+<p align="center">
+  <a href="https://leetcode.com/themihirmathur/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/themihirmathur/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/themihirmathur/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/themihirmathur/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif">
 <img align="center" alt="Coding" width="1100" src="https://visme.co/blog/wp-content/uploads/2019/09/HEADER_ok2.gif">
 
