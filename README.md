@@ -5,12 +5,13 @@
 </p>
 
 [![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://linkedin.com/in/themihirmathur)
-  
+
+<h1 align="center">Hey there 👋🏻 I'm Mihir Mathur</h1>
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<h1 align="center">Hey there 👋🏻 I'm Mihir Mathur</h1>
 <h3 align="center">🔰 A Software Development Engineer from Delhi Technological University 🔰</h3>
 
 <p align="left">
