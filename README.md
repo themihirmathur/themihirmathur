@@ -12,7 +12,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<h3 align="center">🔰 An AI/ML Data Scientist at ClickPost.ai, Bengaluru Office 🔛 B.Tech from Delhi Technological University 🔰</h3>
+<h3 align="center">🔰 An AI/ML Data Scientist at ClickPost.ai, Bengaluru, India Office 🔛 B.Tech from Delhi Technological University (Formerly DCE), New Delhi, India 🔰</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
